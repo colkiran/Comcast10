@@ -1,0 +1,100 @@
+1. collections( Data Structures )
+	1. lists	(arrays)
+	2. dictionaries
+	3. tuples
+	4. sets
+
+
+functions
+---------
+calling a function
+passing parameters to a function
+function returning a value
+
+variable length arguments
+	passing (tuple and dictionary)
+doc strings
+lambdas
+	a. map
+	b. filter
+	c. reduce
+scope of a variable
+	a. local
+	b. global
+	c. non local
+Closures
+HOF
+Decorator
+
+OOPS
+----
+classes
+constructors
+destructors
+class variables
+class methods
+operator overloading (magic methods)
+property
+inheritance
+polymorphism
+abstract class
+duck types
+monkey patching
+
+
+------------------------------------------------------------------------------------------
+
+primary datatypes
+-----------------
+1. numbers
+	a. integer
+	b. float
+	c. complex	- 3 + 4j
+
+2. string
+3. boolean
+
+
+4. lists
+---------
+Arrays in other technologies
+
+1. collection of homogenous data
+2. memory allocation is contigious
+
+
+lists
+-----
+1. collection of hetrogenous data
+2. memory allocation is not contigious
+3. list are ordered collection
+4. lists are subscriptable
+5. lists are enclosed in [ ]
+
+
+5. dictionaries
+----------------
+are also called as associative arrays
+
+every element of the dictionary will be associated with a key, and the keys are user defined
+
+1. keys in a dictionary is always unique
+2. dictionaries are unordered collections
+3. they are mutable
+4. dictionaries are enclosed in {  }
+
+d = {'a': 'apple', 2: 'two', 3: 'cat'}
+
+key and value is seperated by :
+key and value pairs are seperated by ,
+
+
+6. tuple
+
+7. sets
+
+STRINGS ARE IMMUTABLE
+---------------------
+
+
+
