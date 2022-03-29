@@ -22,6 +22,19 @@ lists, dictionaries, tuple, sets
 
 functions
 ---------
+def fun():
+	print("Hello World"
+
+" ", ' '		- single line string
+
+"""  """, '''  ''' - multiple line string
+
+
+
+
+
+
+
 
 
 
