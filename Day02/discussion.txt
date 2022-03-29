@@ -1,0 +1,27 @@
+emp1 = {'name': 'John', 'age': 36, 'desig': 'MGR', 'dept': ['accounts', 'Finanace', 'HR'], 'marks':{'Degree': '89%','PG': '93%'}}
+print(f"emp1 :{emp1}")
+
+
+tuple 
+-----
+its an immutable list
+tuple will be enclosed in ()
+
+
+sets
+----
+1. all elements in a set is unique
+2. set are non subscriptable
+3. set are mutable
+4. unordered collection
+5. elements of a set is enclosed in {}
+
+
+lists, dictionaries, tuple, sets
+--------------------------------
+
+functions
+---------
+
+
+
