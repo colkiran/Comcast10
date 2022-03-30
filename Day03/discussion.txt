@@ -1,0 +1,35 @@
+
+Closures
+--------
+1. function enclosed into another function
+2. varaible declared in a different memory is been accessed in different memory
+3. we are able to access the function through its reference even after deleting the outerfun
+
+This is the point here. A Python3 closure is when some data gets attached to the code.
+
+So, this value is remembered even when the variable goes out of scope, or the function is removed from the namespace.
+
+
+OOPS
+----
+Object Oriented Programming
+
+
+1. Inheritance - 
+2. Abstraction -
+3. Encapsulation -
+4. Polymorphism - 
+
+
+Arithematic operators
+-----------------------
++ - addition
+- - subtraction
+* - multiplication
+/ - division
+// - floor division
+
+
+
+
+
