@@ -1,0 +1,29 @@
+Abstract Class
+--------------
+Bank -> RBI -> customer open's an account (savings, current) => check balance
+
+Package
+-------
+folders
+
+
+Module
+-------
+module is same as library in other technologies
+
+
+packages are compared with classes => 
+											in a class we have a constructor as __init__()		
+											in a package there is a file called __init__.py
+
+
+import mymodule
+----------------
+1. mymodule will be converted into bycode => (3.x, will be stored in a folder __pycache__)
+	bytecode file will have the version of python that have used to convert the file.
+
+to convert any file from .py to .pyc(bytecode)
+python -m filename
+
+
+
