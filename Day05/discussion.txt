@@ -1,0 +1,32 @@
+import module
+
+import package.module
+
+import module as m
+
+from module import class, method
+
+from package import a module
+
+from package import *
+---------------------
+
+
+============================================================================
+
+comparison of dates of creation / modification between .py and .pyc file
+
+it always expect .pyc file to have the latest date compared to .py file
+
+EMP.csv
+-------
+1. count of males and females
+2. distinct list of desig and dept
+3. sum of all salaries
+
+Excel file
+----------
+xlrd, xls....
+
+openpyxl
+--------
