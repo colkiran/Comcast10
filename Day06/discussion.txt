@@ -1,0 +1,30 @@
+pretty table
+------------
+1. csv
+2. database => cursor
+
+Reading a Json file => convert Json data into python object => we can finally manipulate it.
+
+Flask  - Web frame work 
+------------------------
+1. simple web application
+2. DB connection
+	a. ORM - Object Relational Mapping - SqlAlchemy
+3. cookies
+4. session
+5. get / post methods
+6. REST API -  Representational State Transfer
+
+pip install flask
+-----------------
+Jinja2-3.1.1 
+MarkupSafe-2.1.1 
+Werkzeug-2.1.1 
+click-8.1.2 
+colorama-0.4.4 
+flask-2.1.1 
+importlib-meta data-4.11.3 
+itsdangerous-2.1.2 
+zipp-3.8.0
+
+flask --version	=>python, flask, werkzeug
