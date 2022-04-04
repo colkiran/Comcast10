@@ -8,7 +8,7 @@ conn = pymysql.connect(host="localhost", user="root", password="", database="emp
 cursor = conn.cursor()
 
 query = """
-insert into emp values ("EMP01", "Jack", "MGR", "HR", 85000)
+insert into emp values ("EMP58", "Mary", "PM", "IT", 185000)
 """
 cursor.execute(query)
 
